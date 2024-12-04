@@ -1,3 +1,4 @@
+s3api.shop
 vpnconsumer.com
 careers2find.com
 xboxapicenter.com
